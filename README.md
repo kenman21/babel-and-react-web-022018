@@ -11,7 +11,7 @@ In this lesson, we'll unpack what **Babel** brings to the table when developing 
 3. Frame Babel's relative importance at this stage in learning React
 
 # Babel
-
+hello
 ![Tower of Babel](http://www.ancient-origins.net/sites/default/files/field/image/tower-of-babel-2.jpg)
 
 If you don't have time to procrastinate and [read the wiki][origin-myth], and want to get on with learning programming, allow us to provide the [TL;DR][TL;DR] and why it is relevant to the Babel tool we use:
